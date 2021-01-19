@@ -1,0 +1,4 @@
+Searching for to in file file.txt
+Searched 9 lines and found 2 lines containing 'to'
+Are you nobody, too?
+How dreary to be somebody!
