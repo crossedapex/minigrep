@@ -5,4 +5,4 @@ Command line project that searches Emily Dickinson's poem “I’m Nobody! Who a
 
 To run the program from command line type $ cargo run <word to find> file.txt
 
-Program will count total lines and return the lines containing the searched word.
+Program will return the lines containing the searched word.
